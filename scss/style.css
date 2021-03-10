@@ -111,6 +111,8 @@ footer {
 
 footer p {
   color: white;
+  padding: 15px 0;
+  font-size: .8rem;
 }
 
 footer a {
