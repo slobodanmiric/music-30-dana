@@ -228,4 +228,48 @@ unlimited
   -webkit-transition: 0.3s ease;
   transition: 0.3s ease;
 }
+
+/**************
+hivHeader
+**************/
+.hivHeader {
+  padding: 80px 0;
+  background: #0b193c;
+  color: white;
+}
+
+.hivHeader .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.hivHeader .container div {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 30%;
+          flex: 0 0 30%;
+}
+
+.hivHeader .container div i {
+  color: #f91257;
+  font-size: 4rem;
+  margin: 30px 0;
+}
+
+.hivHeader .container div h3 {
+  margin: 0 0 30px 0;
+  font-size: 1.7rem;
+}
 /*# sourceMappingURL=style.css.map */
