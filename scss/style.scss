@@ -207,7 +207,6 @@ concept
 .concept {
     @extend .artists;
     article:last-child {
-        @include flex(space-between,center,row);
         div {
             flex: 0 0 15%;
             img {
