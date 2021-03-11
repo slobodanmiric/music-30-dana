@@ -6,7 +6,7 @@
                 <h2>Subscription from $15/month</h2>
                 <h4>Start a free trial now</h4>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla repellendus pariatur delectus nihil quibusdam veritatis quae officiis exercitationem ab maxime! Quaerat explicabo exercitationem ipsam odit sit omnis tempora illum quibusdam.</p>
-                <button>Start free trial now</button>
+                <button>Start free trial</button>
             </div>
             <div>
                 <ul>
